@@ -1,0 +1,2 @@
+# testnp
+numpy study
